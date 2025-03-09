@@ -1,5 +1,7 @@
 library;
 
+export 'src/controller/controller.dart';
+
 import 'dart:async';
 import 'dart:io';
 import 'package:flutter/material.dart';

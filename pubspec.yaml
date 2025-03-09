@@ -1,6 +1,6 @@
 name: video_story_editor
 description: "This package uses style of WhatsApp story image/video editor, you can edit images and videos. You can add texts, stickers, finger drawing, apply filter, and undo"
-version: 0.0.4
+version: 0.0.5
 
 license: MIT
 
